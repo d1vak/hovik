@@ -3,4 +3,5 @@
 *.iml
 *.zip
 *.jar
+target/
 */*.iml
